@@ -6,6 +6,7 @@ Collecting resources related to contributing to Open Source
 * [Open Source Guide: Best Practices](https://opensource.guide/best-practices/)
 * [Open Source Diversity](https://opensourcediversity.org/)
 * [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/)
+* [GitHub Learning Lab](https://lab.github.com/)
 
 ## Open Source Projects for Beginners
 * [Great for New Contributors](https://github.com/showcases/great-for-new-contributors)
@@ -16,6 +17,9 @@ Collecting resources related to contributing to Open Source
 * Egghead: [How to Contribute to an Open Source Project](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 * Egghead: [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
 * Coding Train: [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+## Tools
+* [Student Developer Pack](https://education.github.com/pack)
 
 ## Interviews
 * [Sharing Interviews](https://github.com/kylemcdonald/SharingInterviews) by Kyle McDonald
