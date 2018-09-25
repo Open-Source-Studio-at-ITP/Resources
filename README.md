@@ -30,3 +30,7 @@ Collecting resources related to contributing to Open Source
 
 ## Style
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+## Markdown
+* [Cheatsheet by Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Cheatsheet by Github](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
